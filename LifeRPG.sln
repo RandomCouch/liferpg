@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeRPG", "Assembly-CSharp.csproj", "{FEA253B4-8625-A0B3-C47E-44FF5CBA604C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeRPG", "Assembly-CSharp-Editor.csproj", "{DAD450A6-09F0-72B1-E2F0-147746842711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA253B4-8625-A0B3-C47E-44FF5CBA604C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA253B4-8625-A0B3-C47E-44FF5CBA604C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA253B4-8625-A0B3-C47E-44FF5CBA604C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA253B4-8625-A0B3-C47E-44FF5CBA604C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD450A6-09F0-72B1-E2F0-147746842711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD450A6-09F0-72B1-E2F0-147746842711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD450A6-09F0-72B1-E2F0-147746842711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD450A6-09F0-72B1-E2F0-147746842711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
